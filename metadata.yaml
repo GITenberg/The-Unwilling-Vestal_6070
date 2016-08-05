@@ -1,0 +1,25 @@
+_repo: The-Unwilling-Vestal_6070
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Edward Lucas
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '1929'
+    url: http://www.gutenberg.org/2009/agents/1929
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Lucas_White
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Empire, 30 B.C.-284 A.D.'
+- !lcc 'PS'
+- GITenberg
+title: The Unwilling Vestal
+url: http://www.gutenberg.org/ebooks/6070
